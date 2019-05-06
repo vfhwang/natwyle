@@ -1,6 +1,7 @@
 body {
   background-colour: #f2f2ef;
   margin:0;
+  /* touch-action: none; */
 }
 
 .main{
